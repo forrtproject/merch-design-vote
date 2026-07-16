@@ -2719,5 +2719,78 @@
       "tee",
       "tote"
     ]
+  },
+  {
+    "slug": "d251-pptx-human-right",
+    "title": "Open Science is a Human Right",
+    "category": "Value",
+    "exact_text": "OPEN SCIENCE IS A HUMAN RIGHT",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d252-pptx-equity-reproducible",
+    "title": "Equity is Reproducible",
+    "category": "Value",
+    "exact_text": "EQUITY IS REPRODUCIBLE",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d253-pptx-replicated-stamp",
+    "title": "\"Replicated\" stamp",
+    "category": "Humour",
+    "exact_text": "REPLICATED",
+    "best_products": [
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d254-pptx-stats-and-cats",
+    "title": "Stats & Cats",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d255-pptx-brick-castle",
+    "title": "Built Open (brick castle)",
+    "category": "Identity",
+    "exact_text": "BUILT OPEN",
+    "best_products": [
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d256-pptx-plushie-castle",
+    "title": "Castle plushie mascot",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d257-pptx-ecr-empowerment",
+    "title": "Early Career, Wide Open",
+    "category": "Value",
+    "exact_text": "EARLY CAREER \u00b7 WIDE OPEN",
+    "best_products": [
+      "tee",
+      "hoodie"
+    ]
   }
 ]
