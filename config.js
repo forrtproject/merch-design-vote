@@ -3,7 +3,7 @@
 // into ENDPOINT below and commit. Until then the app runs in local mode (votes saved in the
 // browser and downloadable as CSV).
 window.FORRT_VOTE_CONFIG = {
-  ENDPOINT: "",                       // e.g. "https://script.google.com/macros/s/AKfy.../exec"
+  ENDPOINT: "https://script.google.com/macros/s/AKfycbyx858xfSCgHQ8RmbfbMsdzcmzrkNs_JZVmqeEBVrH-S6g8YJbI32CY7if-k8oTzg-eyQ/exec",
   PROJECT: "forrt-merch-2026",        // the sheet/tab name this campaign writes to
   TITLE: "Help pick FORRT merch",
   SUBTITLE: "Swipe through the designs — keep the ones you'd wear or gift.",
