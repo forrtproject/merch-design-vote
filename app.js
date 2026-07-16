@@ -66,8 +66,7 @@
 
   function render() {
     const total = items.length, rated = Object.keys(votes).length, c = counts();
-    $("#count").textContent = `${rated}/${total} · ♥${c.love} ✓${c.keep}`;
-    $("#barfill").style.width = `${(rated / total) * 100}%`;
+    $("#count").textContent = rated ? `${rated} rated · ♥${c.love} ✓${c.keep}` : `${total} designs`;
     const app = $("#app");
     if (i >= queue.length) { renderDone(app, c); return; }
     const x = queue[i];
@@ -88,7 +87,7 @@
           <button class="keep" id="b-keep">✓ Keep</button>
           <button class="love" id="b-love">♥ Love</button>
         </div>
-        <div class="hint">Judge the artwork, not the shirt colour or product — those will vary.<br>← Pass&nbsp;&nbsp;→ Keep&nbsp;&nbsp;↑ Undo&nbsp;&nbsp;L Love · your picks save on this device</div>
+        <div class="hint"><b>No need to rate all ${total} — stop whenever, every vote counts.</b><br>Judge the artwork, not the shirt colour or product — those will vary.<br>← Pass&nbsp;&nbsp;→ Keep&nbsp;&nbsp;↑ Undo&nbsp;&nbsp;L Love · picks save on this device</div>
       </div>`;
     $("#b-undo").onclick = undo; $("#b-no").onclick = () => record("discard");
     $("#b-keep").onclick = () => record("keep"); $("#b-love").onclick = () => record("love");
