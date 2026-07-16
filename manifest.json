@@ -1,0 +1,2723 @@
+[
+  {
+    "slug": "d001-preregistered-not-preordained",
+    "title": "Preregistered, Not Preordained",
+    "category": "Methods",
+    "exact_text": "Preregistered \u2260 Preordained",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d002-science-is-a-public-good",
+    "title": "Science Is a Public Good",
+    "category": "Value",
+    "exact_text": "Science is a public good",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d003-jelly-reading",
+    "title": "Just-OS Reads",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d004-fortify-the-evidence",
+    "title": "Fortify the Evidence",
+    "category": "Identity",
+    "exact_text": "FORTify the evidence.",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d005-castle-data-donjon",
+    "title": "Castle Data Donjon",
+    "category": "Identity",
+    "exact_text": "FORRT",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d006-absence-of-evidence",
+    "title": "Absence of Evidence",
+    "category": "Methods",
+    "exact_text": "Absence of evidence is not evidence of absence",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d007-knowledge-belongs-to-everyone",
+    "title": "Knowledge Belongs to Everyone",
+    "category": "Value",
+    "exact_text": "Knowledge belongs to everyone",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d008-jelly-builds-castle",
+    "title": "Master Builder",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d009-open-gates-open-science",
+    "title": "Open Gates, Open Science",
+    "category": "Value",
+    "exact_text": "OPEN GATES. OPEN SCIENCE.",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d010-castle-of-transparency",
+    "title": "Castle of Transparency",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "tee",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d011-jellyfish-preregistered",
+    "title": "Preregistered Propulsion",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "hoodie",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d012-null-is-a-finding",
+    "title": "A Null Is a Finding",
+    "category": "Methods",
+    "exact_text": "A null result is a finding, not a failure",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d013-open-doors-not-gates",
+    "title": "Open Doors, Not Gates",
+    "category": "Value",
+    "exact_text": "Open doors, not gates",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d014-jelly-holds-openlock",
+    "title": "Open by Default",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d015-forrt-community-stronghold",
+    "title": "Community Stronghold",
+    "category": "Identity",
+    "exact_text": "A stronghold for open research.",
+    "best_products": [
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d016-replicability-stairs",
+    "title": "The Replicability Staircase",
+    "category": "Methods",
+    "exact_text": "Step by Step, Trace by Trace",
+    "best_products": [
+      "hoodie",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d017-null-not-nothing",
+    "title": "Null Is Not Nothing",
+    "category": "Methods",
+    "exact_text": "null result \u2260 no effect",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d018-file-drawer",
+    "title": "The File Drawer",
+    "category": "Methods",
+    "exact_text": "Publish the file drawer",
+    "best_products": [
+      "tote",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d019-everyone-belongs-here",
+    "title": "Everyone Belongs Here",
+    "category": "Value",
+    "exact_text": "Everyone belongs here",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d020-jelly-transparent-gag",
+    "title": "Nothing to Hide",
+    "category": "Mascot",
+    "exact_text": "100% transparent",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d021-built-to-be-checked",
+    "title": "Built to Be Checked",
+    "category": "Value",
+    "exact_text": "BUILT TO BE CHECKED",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d022-open-science-constellation",
+    "title": "Open Science Constellation",
+    "category": "Value",
+    "exact_text": "Open Science is Our North Star",
+    "best_products": [
+      "tee",
+      "mug",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d023-forking-paths-fortified",
+    "title": "Forking Paths Fortified",
+    "category": "Methods",
+    "exact_text": "many paths, one preregistration",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d024-significant-not-important",
+    "title": "Significant \u2260 Important",
+    "category": "Methods",
+    "exact_text": "Statistically significant \u2260 practically important",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d025-citation-justice",
+    "title": "Cite Justly",
+    "category": "Value",
+    "exact_text": "Cite justly",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d026-jelly-bioluminescent",
+    "title": "Glow of Open Science",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "hoodie",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d027-lower-the-drawbridge",
+    "title": "Lower the Drawbridge",
+    "category": "Value",
+    "exact_text": "LOWER THE DRAWBRIDGE",
+    "best_products": [
+      "tote",
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d028-pride-tentacles",
+    "title": "Pride in the Deep",
+    "category": "Seasonal",
+    "exact_text": "Open Science for Everyone",
+    "best_products": [
+      "sticker",
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d029-open-science-omnibus",
+    "title": "Open Science Omnibus",
+    "category": "Humour",
+    "exact_text": "I contain multitudes (of open data)",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d030-effect-size-please",
+    "title": "Effect Size, Please",
+    "category": "Methods",
+    "exact_text": "But how big is it?",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d031-credit-where-credit-is-due",
+    "title": "Credit Where Credit Is Due",
+    "category": "Value",
+    "exact_text": "Credit where credit is due",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d032-jelly-glasses",
+    "title": "Peer Reviewer Just-OS",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d033-many-hands-one-forrt",
+    "title": "Many Hands, One FORRT",
+    "category": "Identity",
+    "exact_text": "MANY HANDS. ONE FORRT.",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d034-trans-solidarity-jelly",
+    "title": "Transparent and Trans-Inclusive",
+    "category": "Seasonal",
+    "exact_text": "Visibility, Equity, Reproducibility",
+    "best_products": [
+      "sticker",
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d035-replication-castle",
+    "title": "Replication Castle",
+    "category": "Value",
+    "exact_text": "built to be rebuilt",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d036-p05-is-not-truth",
+    "title": "p < .05 Is Not Truth",
+    "category": "Methods",
+    "exact_text": "p < .05 is a threshold, not a truth",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d037-accessible-by-design",
+    "title": "Accessible by Design",
+    "category": "Value",
+    "exact_text": "Accessible by design",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d038-jelly-pocket",
+    "title": "Pocket Just-OS",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d039-creative-commons-courtyard",
+    "title": "Creative Commons Courtyard",
+    "category": "Value",
+    "exact_text": "SHARE. ADAPT. ATTRIBUTE.",
+    "best_products": [
+      "tote",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d040-replicability-gradient-pattern",
+    "title": "Replicability Grid Pattern",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d041-confidence-interval-hug",
+    "title": "Interval of Compatibility",
+    "category": "Methods",
+    "exact_text": "I contain a range of compatible values",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d042-colourblind-proof-and-proud",
+    "title": "Colourblind-Proof & Proud",
+    "category": "Value",
+    "exact_text": "Colourblind-proof & proud",
+    "best_products": [
+      "sticker",
+      "tote",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d043-jelly-wave-hello",
+    "title": "Just Saying Hi",
+    "category": "Mascot",
+    "exact_text": "hi!",
+    "best_products": [
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d044-null-hypothesis-kindness",
+    "title": "Reject the Null of Indifference",
+    "category": "Humour",
+    "exact_text": "p < 0.05: We Care About Each Other",
+    "best_products": [
+      "mug",
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d045-preprint-jelly",
+    "title": "Preprint Jelly",
+    "category": "Mascot",
+    "exact_text": "available now, peer-reviewed later",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d046-overlapping-cis",
+    "title": "Overlap Isn't a Verdict",
+    "category": "Methods",
+    "exact_text": "Overlapping intervals \u2260 no difference",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d047-design-for-the-margins",
+    "title": "Design for the Margins",
+    "category": "Value",
+    "exact_text": "Design for the margins",
+    "best_products": [
+      "tote",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d048-jelly-juggles-data",
+    "title": "Data Juggler",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d049-just-os-many-arms",
+    "title": "Many Arms of Open Science",
+    "category": "Mascot",
+    "exact_text": "DATA \u2022 CODE \u2022 MATERIALS \u2022 METHODS",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d050-preregistered-shield",
+    "title": "The Shield of Preregistration",
+    "category": "Methods",
+    "exact_text": "Preregistered & Proud",
+    "best_products": [
+      "tee",
+      "sticker",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d051-open-materials-moat",
+    "title": "Open Materials Moat",
+    "category": "Value",
+    "exact_text": "transparent by design",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d052-power-up",
+    "title": "Power Up Your Study",
+    "category": "Methods",
+    "exact_text": "Power up (before you collect)",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d053-dyslexia-friendly",
+    "title": "Made Dyslexia-Friendly",
+    "category": "Value",
+    "exact_text": "reading should be easy for everyone",
+    "best_products": [
+      "tote",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d054-jelly-naps-castle",
+    "title": "Rest & Reproduce",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d055-just-os-goes-with-the-workflow",
+    "title": "Go With the Workflow",
+    "category": "Mascot",
+    "exact_text": "GO WITH THE WORKFLOW",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d056-open-data-tote-flow",
+    "title": "Flowing Open Data",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d057-file-drawer-fortress",
+    "title": "File Drawer Fortress",
+    "category": "Methods",
+    "exact_text": "what we don't see shapes what we see",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d058-underpowered-blur",
+    "title": "Underpowered",
+    "category": "Methods",
+    "exact_text": "Underpowered: results may be blurry",
+    "best_products": [
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d059-nothing-about-us-without-us",
+    "title": "Nothing About Us Without Us",
+    "category": "Value",
+    "exact_text": "Nothing about us without us",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d060-jelly-lineart-minimal",
+    "title": "One-Line Just-OS",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d061-just-os-no-backbone-needed",
+    "title": "No Backbone Needed",
+    "category": "Humour",
+    "exact_text": "OPEN SCIENCE TAKES NERVE \u2014 NOT A BACKBONE",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d062-collaborative-castle",
+    "title": "The Collaborative Castle",
+    "category": "Value",
+    "exact_text": "Built Together, Shared by All",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d063-registered-report-royalty",
+    "title": "Registered Report Royalty",
+    "category": "Methods",
+    "exact_text": "results-blind peer review",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d064-garden-not-named",
+    "title": "Choose Before You Look",
+    "category": "Methods",
+    "exact_text": "Decide your analysis before you see the data",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d065-decolonise-the-curriculum",
+    "title": "Decolonise the Curriculum",
+    "category": "Value",
+    "exact_text": "Decolonise the curriculum",
+    "best_products": [
+      "tote",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d066-jelly-lantern",
+    "title": "Guiding Light",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "hoodie",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d067-just-os-current-practice",
+    "title": "Current Practice",
+    "category": "Humour",
+    "exact_text": "MY CURRENT PRACTICE IS OPEN",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d068-just-os-reproducibility-loop",
+    "title": "Just-OS Reproducibility Loop",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "mug",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d069-p-value-prison",
+    "title": "P-Value Prison",
+    "category": "Methods",
+    "exact_text": "don't let .05 be your ceiling",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d070-researcher-df",
+    "title": "Researcher Degrees of Freedom",
+    "category": "Methods",
+    "exact_text": "So many forks, so few preregistered",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d071-science-speaks-every-language",
+    "title": "Science Speaks Every Language",
+    "category": "Value",
+    "exact_text": "Science speaks every language",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d072-jelly-tote-preprints",
+    "title": "Preprint Courier",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d073-just-os-tentacular-transparency",
+    "title": "Tentacular Transparency",
+    "category": "Mascot",
+    "exact_text": "TENTACULAR TRANSPARENCY",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d074-bold-forrt-stamp",
+    "title": "FORRT Bold Stamp",
+    "category": "Identity",
+    "exact_text": "FORRT",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d075-open-education-octopus",
+    "title": "NOT AN OCTOPUS",
+    "category": "Humour",
+    "exact_text": "eight arms, one transparent mission",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d076-multiverse-sky",
+    "title": "Multiverse Analysis",
+    "category": "Methods",
+    "exact_text": "One dataset, many defensible universes",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d077-global-south-science",
+    "title": "Global Science, Global Voices",
+    "category": "Value",
+    "exact_text": "Global science, global voices",
+    "best_products": [
+      "tote",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d078-jelly-coffee",
+    "title": "Fuel for Science",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "mug",
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d079-castle-bell-jellyfish",
+    "title": "Castle Bell",
+    "category": "Mascot",
+    "exact_text": "JUST-OS \u00d7 FORRT",
+    "best_products": [
+      "sticker",
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d080-seasonal-harvest-science",
+    "title": "Harvesting Open Insights",
+    "category": "Seasonal",
+    "exact_text": "none",
+    "best_products": [
+      "mug",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d081-heterogeneity-heroes",
+    "title": "Heterogeneity Heroes",
+    "category": "Methods",
+    "exact_text": "variance is not error",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d082-spec-curve",
+    "title": "Specification Curve",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d083-kindness-is-rigorous",
+    "title": "Kindness Is Rigorous",
+    "category": "Value",
+    "exact_text": "Kindness is rigorous",
+    "best_products": [
+      "mug",
+      "tote",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d084-jelly-meditates",
+    "title": "Just Breathe, Just Open",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d085-null-is-not-zero",
+    "title": "Null Is Not Zero",
+    "category": "Methods",
+    "exact_text": "FAIL TO REJECT \u2260 PROVE ZERO",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d086-agy-confidence-interval-hug",
+    "title": "Confidence Interval Hug",
+    "category": "Humour",
+    "exact_text": "Keeping it within bounds.",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d087-code-castle",
+    "title": "Code Castle",
+    "category": "Value",
+    "exact_text": "reproducible by construction",
+    "best_products": [
+      "hoodie",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d088-p-hacking-gently",
+    "title": "Don't Torture the Data",
+    "category": "Methods",
+    "exact_text": "If you torture the data long enough, it will confess",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d089-we-rise-by-sharing",
+    "title": "We Rise by Sharing",
+    "category": "Value",
+    "exact_text": "We rise by sharing",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d090-jelly-bloom",
+    "title": "A Bloom of Us",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "tee",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d091-significance-needs-context",
+    "title": "Significance Needs Context",
+    "category": "Methods",
+    "exact_text": "STATISTICALLY SIGNIFICANT. NOW SHOW ME THE ESTIMATE.",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d092-transparent-lab-notes",
+    "title": "Transparent Lab Notes",
+    "category": "Methods",
+    "exact_text": "Show Your Work",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d093-equity-battlements",
+    "title": "Equity Battlements",
+    "category": "Value",
+    "exact_text": "access is not a moat",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d094-garden-hose-data",
+    "title": "Stop p-Hacking",
+    "category": "Methods",
+    "exact_text": "p-hacking: 0 problems it solves",
+    "best_products": [
+      "sticker",
+      "mug",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d095-stronger-together-open",
+    "title": "Stronger Together, Open by Default",
+    "category": "Value",
+    "exact_text": "Stronger together, open by default",
+    "best_products": [
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d096-jelly-holds-castle-hands",
+    "title": "Best Friends",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d097-interval-estimates-welcome",
+    "title": "Intervals Welcome",
+    "category": "Methods",
+    "exact_text": "POINT ESTIMATES NEED PERSONAL SPACE",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d098-equitable-tides",
+    "title": "Equitable Tides",
+    "category": "Value",
+    "exact_text": "Science is for the global community.",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d099-meta-research-medieval",
+    "title": "Meta-Research Medieval",
+    "category": "Humour",
+    "exact_text": "studying the studiers since 2019",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d100-replication-adds-evidence",
+    "title": "Replication Adds Evidence",
+    "category": "Methods",
+    "exact_text": "Replication = more evidence, not a verdict",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d101-lift-as-you-climb",
+    "title": "Lift as You Climb",
+    "category": "Value",
+    "exact_text": "Lift as you climb",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d102-jelly-magnifier",
+    "title": "Look Closer",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "mug",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d103-power-before-pvalues",
+    "title": "Power Before P-Values",
+    "category": "Methods",
+    "exact_text": "PLAN FOR PRECISION",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d104-jellyfish-origami",
+    "title": "Origami Just-OS",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d105-transparency-turret",
+    "title": "Transparency Turret",
+    "category": "Value",
+    "exact_text": "glass houses, open data",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d106-many-labs",
+    "title": "Many Labs, One Question",
+    "category": "Methods",
+    "exact_text": "Many Labs",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d107-open-education-for-all",
+    "title": "Open Education for All",
+    "category": "Value",
+    "exact_text": "Open education for all",
+    "best_products": [
+      "tote",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d108-jelly-share-hearts",
+    "title": "Sharing Is Caring",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d109-standard-errors-cluster",
+    "title": "Standard Errors Have Social Structure",
+    "category": "Methods",
+    "exact_text": "IF OBSERVATIONS CLUSTER, YOUR ERRORS SHOULD KNOW.",
+    "best_products": [
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d110-medieval-blueprints",
+    "title": "Medieval Blueprints",
+    "category": "Identity",
+    "exact_text": "FORRT: Framework for Open and Reproducible Research Training",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d111-failing-forward-fortress",
+    "title": "Failing Forward Fortress",
+    "category": "Value",
+    "exact_text": "null results build knowledge",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d112-big-team-science",
+    "title": "Big-Team Science",
+    "category": "Value",
+    "exact_text": "Better together, powered by many",
+    "best_products": [
+      "hoodie",
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d113-the-castle-is-open",
+    "title": "The Castle Is Open",
+    "category": "Identity",
+    "exact_text": "The castle is open",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d114-jelly-astronaut",
+    "title": "Open Space",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "hoodie",
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d115-random-effects-weather",
+    "title": "Random-Effects Weather",
+    "category": "Methods",
+    "exact_text": "EXPECT SOME HETEROGENEITY",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d116-power-jelly",
+    "title": "High Power Jelly",
+    "category": "Humour",
+    "exact_text": "Powered by Open Science",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d117-multilingual-open",
+    "title": "Open Science / Ciencia Abierta / Open Wetenschap",
+    "category": "Identity",
+    "exact_text": "open science [rotating languages]",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d118-meta-analysis-forest",
+    "title": "Forest Plot Forest",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d119-inclusion-is-a-method",
+    "title": "Inclusion Is a Method",
+    "category": "Value",
+    "exact_text": "Inclusion is a method",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d120-castle-lineart",
+    "title": "Castle in a Line",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d121-forest-plot-castle",
+    "title": "Forest Plot Fortifications",
+    "category": "Methods",
+    "exact_text": "MAY YOUR INTERVALS BE INFORMATIVE",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d122-retro-sunset-castle",
+    "title": "Retro Sunset Castle",
+    "category": "Identity",
+    "exact_text": "FORRT",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d123-power-analysis-paladin",
+    "title": "Power Analysis Paladin",
+    "category": "Methods",
+    "exact_text": "plan for precision",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d124-open-data",
+    "title": "Open Data",
+    "category": "Value",
+    "exact_text": "Open Data",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d125-beyond-weird",
+    "title": "Beyond WEIRD",
+    "category": "Value",
+    "exact_text": "Beyond WEIRD samples",
+    "best_products": [
+      "tote",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d126-castle-geometric",
+    "title": "Geometric Keep",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d127-multiverse-map",
+    "title": "Map the Multiverse",
+    "category": "Methods",
+    "exact_text": "SHOW THE REASONABLE ANALYSES",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d128-replication-rally",
+    "title": "Replication Rally",
+    "category": "Methods",
+    "exact_text": "confirm, don't just cite",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d129-open-materials",
+    "title": "Open Materials",
+    "category": "Value",
+    "exact_text": "Open Materials",
+    "best_products": [
+      "tote",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d130-open-is-an-invitation",
+    "title": "Open Is an Invitation",
+    "category": "Value",
+    "exact_text": "Open is an invitation",
+    "best_products": [
+      "mug",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d131-castle-crest",
+    "title": "FORRT Crest",
+    "category": "Identity",
+    "exact_text": "FORRT",
+    "best_products": [
+      "hoodie",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d132-degrees-of-freedom",
+    "title": "Researcher Degrees of Freedom",
+    "category": "Methods",
+    "exact_text": "DECISIONS MULTIPLY. DOCUMENT THEM.",
+    "best_products": [
+      "tee",
+      "mug",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d133-winter-solstice-tower",
+    "title": "Winter Solstice Tower",
+    "category": "Seasonal",
+    "exact_text": "none",
+    "best_products": [
+      "mug",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d134-data-doubling",
+    "title": "Data Doubling",
+    "category": "Humour",
+    "exact_text": "I have seen the data and it is us",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d135-open-code",
+    "title": "Open Code",
+    "category": "Value",
+    "exact_text": "Open Code",
+    "best_products": [
+      "tee",
+      "sticker",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d136-you-belong-in-the-lab",
+    "title": "You Belong in the Lab",
+    "category": "Value",
+    "exact_text": "You belong in the lab",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d137-castle-blueprint",
+    "title": "Reproducible Build",
+    "category": "Value",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d138-missingness-has-mechanisms",
+    "title": "Missingness Has Mechanisms",
+    "category": "Methods",
+    "exact_text": "MISSING DATA DIDN'T JUST VANISH",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d139-creative-commons-wave",
+    "title": "Creative Commons Wave",
+    "category": "Value",
+    "exact_text": "Share Alike, Share Always",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d140-pride-transparent",
+    "title": "Transparent Pride",
+    "category": "Identity",
+    "exact_text": "open science, open hearts",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d141-impostor-welcome",
+    "title": "Impostors Welcome Here",
+    "category": "Value",
+    "exact_text": "Impostors welcome here",
+    "best_products": [
+      "mug",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d142-castle-blocks",
+    "title": "Built Together",
+    "category": "Value",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d143-measurement-before-model",
+    "title": "Measurement Before Model",
+    "category": "Methods",
+    "exact_text": "MEASURE TWICE. MODEL ONCE.",
+    "best_products": [
+      "tee",
+      "mug",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d144-jellyfish-monoline-pattern",
+    "title": "Jellyfish Monoline Pattern",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d145-uncertainty-umbrella",
+    "title": "Uncertainty Umbrella",
+    "category": "Methods",
+    "exact_text": "embrace the interval",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d146-foss-quartet",
+    "title": "Free / Libre / Open",
+    "category": "Value",
+    "exact_text": "Open Data \u00b7 Open Materials \u00b7 Open Code",
+    "best_products": [
+      "hoodie",
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d147-access-not-privilege",
+    "title": "Access, Not Privilege",
+    "category": "Value",
+    "exact_text": "Access, not privilege",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d148-castle-open-gates",
+    "title": "Gates Wide Open",
+    "category": "Value",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d149-reliability-not-validity",
+    "title": "Reliable Is Not Necessarily Valid",
+    "category": "Methods",
+    "exact_text": "CONSISTENTLY WRONG IS STILL WRONG",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d150-publish-everything",
+    "title": "Publish the Whole Story",
+    "category": "Methods",
+    "exact_text": "All Findings Matter",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d151-version-control-vigil",
+    "title": "Version Control Vigil",
+    "category": "Value",
+    "exact_text": "track every change",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d152-reproducible-workflow",
+    "title": "Reproducible by Design",
+    "category": "Value",
+    "exact_text": "Reproducible by design",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d153-read-me-aloud",
+    "title": "Alt Text Is Love",
+    "category": "Value",
+    "exact_text": "Alt text is love",
+    "best_products": [
+      "sticker",
+      "mug",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d154-castle-constellation",
+    "title": "Castle Constellation",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "hoodie",
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d155-interaction-main-effects",
+    "title": "Interactions Change the Conversation",
+    "category": "Methods",
+    "exact_text": "WITH AN INTERACTION, MAIN EFFECTS NEED CONTEXT.",
+    "best_products": [
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d156-just-os-astronaut",
+    "title": "Just-OS Space Odyssey",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "sticker",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d157-sample-size-siege",
+    "title": "Sample Size Siege",
+    "category": "Methods",
+    "exact_text": "n = enough",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d158-push-to-reproduce",
+    "title": "It Runs on My Machine",
+    "category": "Humour",
+    "exact_text": "\"It works on my machine\" is not reproducibility",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d159-caption-everything",
+    "title": "Caption Everything",
+    "category": "Value",
+    "exact_text": "Caption everything",
+    "best_products": [
+      "sticker",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d160-castle-wax-seal",
+    "title": "Sealed & Open",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d161-correlation-has-no-arrow",
+    "title": "Correlation Has No Arrow",
+    "category": "Methods",
+    "exact_text": "CORRELATION COMES WITHOUT DIRECTIONS",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d162-inclusion-mosaic",
+    "title": "Inclusion Mosaic",
+    "category": "Value",
+    "exact_text": "Open Science is Accessible Science",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d163-open-peer-review-parade",
+    "title": "Open Peer Review Parade",
+    "category": "Value",
+    "exact_text": "signed, public, constructive",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d164-version-control-castle",
+    "title": "Commit Early, Commit Often",
+    "category": "Value",
+    "exact_text": "Commit early, commit often",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d165-plain-language-please",
+    "title": "Plain Language, Please",
+    "category": "Value",
+    "exact_text": "Plain language, please",
+    "best_products": [
+      "mug",
+      "tote",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d166-castle-skyline-strip",
+    "title": "Open Skyline",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "mug",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d167-dag-before-drag",
+    "title": "DAG Before Drag",
+    "category": "Methods",
+    "exact_text": "DRAW ASSUMPTIONS BEFORE DRAGGING VARIABLES INTO THE MODEL",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d168-regression-to-the-mean",
+    "title": "Regression to the Mean",
+    "category": "Humour",
+    "exact_text": "No matter how extreme, we return to our community.",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d169-p-hacking-potter",
+    "title": "Not a P-Hacking Potter",
+    "category": "Humour",
+    "exact_text": "I do not grind, I preregister",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d170-peer-review-castle",
+    "title": "Peer Review",
+    "category": "Value",
+    "exact_text": "Kind, rigorous, constructive",
+    "best_products": [
+      "tote",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d171-open-hearts-open-data",
+    "title": "Open Hearts, Open Data",
+    "category": "Value",
+    "exact_text": "Open hearts, open data",
+    "best_products": [
+      "mug",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d172-castle-stamp",
+    "title": "Approved: Open",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d173-collider-do-not-condition",
+    "title": "Collider at the Gate",
+    "category": "Methods",
+    "exact_text": "CAUTION: CONDITIONING MAY OPEN THIS PATH",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d174-spring-blossom-reproducibility",
+    "title": "Springing into Transparency",
+    "category": "Seasonal",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d175-effect-size-estate",
+    "title": "Effect Size Estate",
+    "category": "Methods",
+    "exact_text": "measure what matters, in what units",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d176-reviewer-2",
+    "title": "Be a Kinder Reviewer 2",
+    "category": "Humour",
+    "exact_text": "Reviewer 2, but kind",
+    "best_products": [
+      "mug",
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d177-pay-it-forward-preprint",
+    "title": "Pay It Forward, Preprint It",
+    "category": "Value",
+    "exact_text": "Pay it forward \u2014 preprint it",
+    "best_products": [
+      "sticker",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d178-castle-jelly-moat",
+    "title": "Jellies in the Moat",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d179-model-checks-at-dawn",
+    "title": "Model Checks at Dawn",
+    "category": "Methods",
+    "exact_text": "THE MODEL FIT. DID YOU CHECK WHERE?",
+    "best_products": [
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d180-p-value-warning",
+    "title": "Handle with Care",
+    "category": "Humour",
+    "exact_text": "Caution: Prone to p-hacking",
+    "best_products": [
+      "sticker",
+      "mug",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d181-collaboration-causeway",
+    "title": "Collaboration Causeway",
+    "category": "Value",
+    "exact_text": "build bridges, not silos",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d182-bayesian-frequentist-tea",
+    "title": "Priors & Frequencies, Friends",
+    "category": "Humour",
+    "exact_text": "Bayesians & Frequentists welcome",
+    "best_products": [
+      "mug",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d183-welcome-to-open-science",
+    "title": "Welcome to Open Science",
+    "category": "Identity",
+    "exact_text": "Welcome to open science",
+    "best_products": [
+      "sticker",
+      "mug",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d184-pattern-jelly-allover",
+    "title": "Jelly Drift",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d185-shrinkage-society",
+    "title": "The Shrinkage Society",
+    "category": "Methods",
+    "exact_text": "PARTIAL POOLING: BORROW STRENGTH, KEEP DIFFERENCES",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d186-code-reproducibility-flow",
+    "title": "Clean Code, Clean Trails",
+    "category": "Methods",
+    "exact_text": "Read, Run, Reproduce",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d187-negative-result-nave",
+    "title": "Negative Result Nave",
+    "category": "Value",
+    "exact_text": "null findings, full respect",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d188-update-your-priors",
+    "title": "Update Your Priors",
+    "category": "Methods",
+    "exact_text": "Update your priors",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d189-progress-not-purity",
+    "title": "Progress, Not Purity",
+    "category": "Value",
+    "exact_text": "Progress, not purity",
+    "best_products": [
+      "mug",
+      "tee",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d190-pattern-castle-ditsy",
+    "title": "Tiny Keeps",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d191-robustness-is-a-team-sport",
+    "title": "Robustness Is a Team Sport",
+    "category": "Methods",
+    "exact_text": "ONE RESULT. SEVERAL REASONABLE CHECKS.",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d192-open-collaboration-map",
+    "title": "Open Collaboration Map",
+    "category": "Value",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d193-bayesian-belfry",
+    "title": "Bayesian Belfry",
+    "category": "Methods",
+    "exact_text": "update your priors",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d194-correlation-causation",
+    "title": "Correlation \u2260 Causation",
+    "category": "Methods",
+    "exact_text": "Correlation \u2260 Causation (but it's a hint)",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d195-many-hands-open-science",
+    "title": "Many Hands Make Open Science",
+    "category": "Value",
+    "exact_text": "Many hands make open science",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d196-pattern-openscience-icons",
+    "title": "Icon Confetti",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d197-equivalence-needs-bounds",
+    "title": "Equivalence Needs Boundaries",
+    "category": "Methods",
+    "exact_text": "NO MEANINGFUL EFFECT? DEFINE MEANINGFUL.",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d198-minimalist-crenellations",
+    "title": "Minimalist Crenellations",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d199-open-methodology-market",
+    "title": "Open Methodology Market",
+    "category": "Value",
+    "exact_text": "trade secrets for trust",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d200-confounder-lurking",
+    "title": "Mind the Confounder",
+    "category": "Methods",
+    "exact_text": "There's a confounder behind you",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d201-commons-not-commodity",
+    "title": "A Commons, Not a Commodity",
+    "category": "Value",
+    "exact_text": "Knowledge is a commons, not a commodity",
+    "best_products": [
+      "tote",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d202-bayes-update-club",
+    "title": "Update Club",
+    "category": "Methods",
+    "exact_text": "NEW DATA, UPDATED UNCERTAINTY",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d203-just-os-scientific-method",
+    "title": "Just-OS Scientific Method",
+    "category": "Mascot",
+    "exact_text": "Observe. Document. Share.",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d204-retraction-ritual",
+    "title": "Retraction Ritual",
+    "category": "Value",
+    "exact_text": "correct with courage",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d205-garbage-in",
+    "title": "Measure What Matters",
+    "category": "Methods",
+    "exact_text": "No stats can fix a bad measure",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d206-tear-down-the-paywall",
+    "title": "This Wall Is Coming Down",
+    "category": "Value",
+    "exact_text": "This wall is coming down",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d207-pattern-blueprint-grid",
+    "title": "Blueprint Grid",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d208-base-rate-battlements",
+    "title": "Mind the Base Rate",
+    "category": "Methods",
+    "exact_text": "A POSITIVE RESULT STILL HAS CONTEXT",
+    "best_products": [
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d209-replication-reflections",
+    "title": "Double Take",
+    "category": "Methods",
+    "exact_text": "Replication is the Ultimate Verification",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d210-interdisciplinary-drawbridge",
+    "title": "Interdisciplinary Drawbridge",
+    "category": "Value",
+    "exact_text": "lower the barriers",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d211-reliability-validity",
+    "title": "Reliable & Valid",
+    "category": "Methods",
+    "exact_text": "Reliable \u2260 Valid",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d212-open-for-the-next-generation",
+    "title": "Open for the Next Generation",
+    "category": "Value",
+    "exact_text": "Open for the next generation",
+    "best_products": [
+      "mug",
+      "tote",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d213-pattern-terrazzo",
+    "title": "Open Terrazzo",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d214-solidarity-hearts",
+    "title": "Solidarity in Science",
+    "category": "Seasonal",
+    "exact_text": "Kindness is a Core Method",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d215-data-citation-dungeon",
+    "title": "Data Citation Dungeon",
+    "category": "Value",
+    "exact_text": "cite the source, free the data",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d216-error-bars-required",
+    "title": "Show Your Uncertainty",
+    "category": "Methods",
+    "exact_text": "No error bars, no deal",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d217-reproducible-and-inclusive",
+    "title": "Reproducible & Inclusive",
+    "category": "Value",
+    "exact_text": "Reproducible & inclusive",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d218-pattern-crenellation-band",
+    "title": "Crenellation Repeat",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "mug",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d219-deviations-declared",
+    "title": "Declare the Detour",
+    "category": "Value",
+    "exact_text": "PLANS CHANGE. DISCLOSE THE DETOUR.",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d220-pixel-art-science",
+    "title": "Retro Pixel FORRT",
+    "category": "Identity",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d221-robustness-rampart",
+    "title": "Robustness Rampart",
+    "category": "Methods",
+    "exact_text": "check the fence, not just the gate",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d222-dance-of-the-p",
+    "title": "p-Values Dance",
+    "category": "Humour",
+    "exact_text": "p-values dance; estimates lead",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d223-data-collectors-are-authors-too",
+    "title": "Data Collectors Are Scientists Too",
+    "category": "Value",
+    "exact_text": "Data collectors are scientists too",
+    "best_products": [
+      "mug",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d224-pattern-halftone-jelly",
+    "title": "Halftone Bloom",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d225-exploration-confirmation",
+    "title": "Both Kinds of Curious",
+    "category": "Value",
+    "exact_text": "EXPLORE OPENLY. CONFIRM CAREFULLY.",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d226-data-provenance-trail",
+    "title": "Data Provenance Trail",
+    "category": "Methods",
+    "exact_text": "Track the Track",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d227-slow-science-sanctuary",
+    "title": "Slow Science Sanctuary",
+    "category": "Value",
+    "exact_text": "take the time to get it right",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d228-first-gen-scholar",
+    "title": "First-Gen & Thriving",
+    "category": "Value",
+    "exact_text": "First-gen & thriving in science",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d229-pride-castle",
+    "title": "Castle of Many Colours",
+    "category": "Seasonal",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d230-registered-report-weatherproof",
+    "title": "Weatherproof Results",
+    "category": "Humour",
+    "exact_text": "REVIEW THE QUESTION BEFORE THE WEATHER ARRIVES",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d231-summer-solstice-splash",
+    "title": "Summer Solstice Splash",
+    "category": "Seasonal",
+    "exact_text": "none",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d232-citizen-science-citadel",
+    "title": "Citizen Science Citadel",
+    "category": "Value",
+    "exact_text": "many hands, open walls",
+    "best_products": [
+      "tee",
+      "tote",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d233-justos-hello",
+    "title": "Meet Just-OS",
+    "category": "Mascot",
+    "exact_text": "Just-OS \u2014 Just Open Science",
+    "best_products": [
+      "tee",
+      "sticker",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d234-disability-in-science",
+    "title": "Disabled Scientists Belong",
+    "category": "Value",
+    "exact_text": "Disabled scientists belong",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d235-pride-jelly",
+    "title": "Proud Just-OS",
+    "category": "Seasonal",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "tee"
+    ]
+  },
+  {
+    "slug": "d236-methods-before-outcomes",
+    "title": "Methods Before Outcomes",
+    "category": "Value",
+    "exact_text": "GOOD QUESTIONS DESERVE RESULTS-INDEPENDENT REVIEW",
+    "best_products": [
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d237-abstract-data-mosaic",
+    "title": "Abstract Data Mosaic",
+    "category": "Pattern",
+    "exact_text": "none",
+    "best_products": [
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d238-preregistration-pilgrimage",
+    "title": "Preregistration Pilgrimage",
+    "category": "Methods",
+    "exact_text": "commit to the path",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d239-justos-castle",
+    "title": "Just-OS at the Castle",
+    "category": "Mascot",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "tee",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d240-neurodiversity-in-science",
+    "title": "Neurodiverse Minds, Open Science",
+    "category": "Value",
+    "exact_text": "Neurodiverse minds make science better",
+    "best_products": [
+      "tee",
+      "tote",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d241-replication-is-not-photocopying",
+    "title": "Replication Is Not Photocopying",
+    "category": "Humour",
+    "exact_text": "REPLICATION: SAME CLAIM, NEW EVIDENCE",
+    "best_products": [
+      "tee",
+      "mug",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d242-preregistration-time-capsule",
+    "title": "The Time Capsule of Science",
+    "category": "Methods",
+    "exact_text": "Preregistration: Locking in the Plan",
+    "best_products": [
+      "tee",
+      "sticker",
+      "hoodie"
+    ]
+  },
+  {
+    "slug": "d243-open-license-library",
+    "title": "Open License Library",
+    "category": "Value",
+    "exact_text": "knowledge without barriers",
+    "best_products": [
+      "tee",
+      "tote",
+      "sticker"
+    ]
+  },
+  {
+    "slug": "d244-replication-jelly",
+    "title": "Replicate Me",
+    "category": "Mascot",
+    "exact_text": "Replicate me",
+    "best_products": [
+      "sticker",
+      "tee",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d245-trans-scientists-belong",
+    "title": "Trans Scientists Belong",
+    "category": "Value",
+    "exact_text": "Trans scientists belong in science",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d246-open-source-compass",
+    "title": "Open Source Compass",
+    "category": "Value",
+    "exact_text": "Directing Science Toward Openness",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d247-transparency-triptych",
+    "title": "Transparency Triptych",
+    "category": "Value",
+    "exact_text": "open data, open code, open materials",
+    "best_products": [
+      "tee",
+      "hoodie",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d248-transparency-jelly",
+    "title": "Transparent by Nature",
+    "category": "Mascot",
+    "exact_text": "Transparent by nature",
+    "best_products": [
+      "tee",
+      "sticker",
+      "mug"
+    ]
+  },
+  {
+    "slug": "d249-pride-in-open-science",
+    "title": "Proud & Open",
+    "category": "Value",
+    "exact_text": "Proud & open",
+    "best_products": [
+      "tee",
+      "sticker",
+      "tote"
+    ]
+  },
+  {
+    "slug": "d250-neurodiversity-jelly",
+    "title": "Neurodivergent & Open",
+    "category": "Seasonal",
+    "exact_text": "none",
+    "best_products": [
+      "sticker",
+      "tee",
+      "tote"
+    ]
+  }
+]
